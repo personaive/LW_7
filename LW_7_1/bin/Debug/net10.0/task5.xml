@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfToy xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Toy>
+    <Name>Car</Name>
+    <Price>100</Price>
+    <MinAge>2</MinAge>
+    <MaxAge>5</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Doll</Name>
+    <Price>200</Price>
+    <MinAge>3</MinAge>
+    <MaxAge>6</MaxAge>
+  </Toy>
+  <Toy>
+    <Name>Robot</Name>
+    <Price>300</Price>
+    <MinAge>1</MinAge>
+    <MaxAge>4</MaxAge>
+  </Toy>
+</ArrayOfToy>

@@ -1,0 +1,14 @@
+D:\VISUAL STUDIO PROJECTS\LW_7_1\bin\Debug\net10.0\LW_7_1.exe
+D:\VISUAL STUDIO PROJECTS\LW_7_1\bin\Debug\net10.0\LW_7_1.deps.json
+D:\VISUAL STUDIO PROJECTS\LW_7_1\bin\Debug\net10.0\LW_7_1.runtimeconfig.json
+D:\VISUAL STUDIO PROJECTS\LW_7_1\bin\Debug\net10.0\LW_7_1.dll
+D:\VISUAL STUDIO PROJECTS\LW_7_1\bin\Debug\net10.0\LW_7_1.pdb
+D:\VISUAL STUDIO PROJECTS\LW_7_1\obj\Debug\net10.0\LW_7_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VISUAL STUDIO PROJECTS\LW_7_1\obj\Debug\net10.0\LW_7_1.AssemblyInfoInputs.cache
+D:\VISUAL STUDIO PROJECTS\LW_7_1\obj\Debug\net10.0\LW_7_1.AssemblyInfo.cs
+D:\VISUAL STUDIO PROJECTS\LW_7_1\obj\Debug\net10.0\LW_7_1.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO PROJECTS\LW_7_1\obj\Debug\net10.0\LW_7_1.dll
+D:\VISUAL STUDIO PROJECTS\LW_7_1\obj\Debug\net10.0\refint\LW_7_1.dll
+D:\VISUAL STUDIO PROJECTS\LW_7_1\obj\Debug\net10.0\LW_7_1.pdb
+D:\VISUAL STUDIO PROJECTS\LW_7_1\obj\Debug\net10.0\LW_7_1.genruntimeconfig.cache
+D:\VISUAL STUDIO PROJECTS\LW_7_1\obj\Debug\net10.0\ref\LW_7_1.dll
