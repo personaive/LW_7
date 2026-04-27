@@ -1,21 +1,21 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 
 public static class CollectionTasks
 {
-    public static List<int> Task6_Intersection(List<int> list1, List<int> list2)
+    public static List<T> Task6_Intersection<T>(List<T> list1, List<T> list2)
     {
-        List<int> result = new List<int>();
+        List<T> result = new List<T>();
 
         for (int i = 0; i < list1.Count; i++)
         {
-            int value = list1[i];
+            T value = list1[i];
             bool exists = false;
 
             for (int j = 0; j < list2.Count; j++)
             {
-                if (list2[j] == value)
+                if (list2[j].Equals(value))
                 {
                     exists = true;
                 }
@@ -27,7 +27,7 @@ public static class CollectionTasks
 
                 for (int k = 0; k < result.Count; k++)
                 {
-                    if (result[k] == value)
+                    if (result[k].Equals(value))
                     {
                         alreadyAdded = true;
                     }
@@ -43,11 +43,11 @@ public static class CollectionTasks
         return result;
     }
 
-    public static void Task7_ReverseAppend(LinkedList<int> list)
+    public static void Task7_ReverseAppend<T>(LinkedList<T> list)
     {
-        List<int> temp = new List<int>();
+        List<T> temp = new List<T>();
 
-        LinkedListNode<int> current = list.First;
+        LinkedListNode<T> current = list.First;
 
         while (current != null)
         {
